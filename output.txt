@@ -1,0 +1,31 @@
+ONE TIME EVENTS
+2014
+ Tuesday May 6   7:00 - 8:00 First Day in America
+2015
+ Tuesday September 1   9:00 - 14:00 Enroll in Community College
+2019
+ Saturday June 1   20:00 - 23:00 Visit Relatives and Friends
+2020
+ Tuesday September 1   8:00 - 10:00 Tranfer to SJSU
+2021
+ Monday February 22   14:30 - 16:30 Covid Test 
+2021
+2021
+ Monday March 1   10:00 - 14:00 Interview at Amazon
+2025
+ Thursday January 2   8:00 - 13:00 Buy A House
+
+RECURRING EVENTS
+ Working at Restaurant
+  SU 2:00 - 22:00 1/2/20 3/21/22
+ Hackathon forum meeting
+  S 19:00 - 22:00 1/2/21 3/21/22
+ CS146 Lecture
+  MW 8:30 - 9:45 1/27/21 5/17/21
+ CS154 Lecture
+  MW 10:30 - 12:45 1/27/21 5/17/21
+ CS154 lecture
+  TR 13:30 - 14:45 1/27/21 5/25/21
+ Practice Coding
+  F 16:30 - 22:30 1/27/21 5/27/21
+
